@@ -50,7 +50,7 @@ Runs ocultar_nomes.py immediately to hide existing application labels.
 Usage
 Hide labels on new shortcuts: Whenever you add a new application shortcut to your desktop, click the refresh icon (view-refresh) on your desktop to hide its label and reload DING.
 
-Restore original application names (without uninstalling):
+Restore original application names (without uninstalling): Right-click the refresh icon on your desktop and select Restaurar Nomes das Apps, or run:
 
 Bash
 ~/.local/bin/restaurar-nomes.py
